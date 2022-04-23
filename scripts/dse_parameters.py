@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Copyright (c) 2021 Electronics and Telecommunications Research Institute
+# SPDX-License-Identifier: Apache-2.0
+
 energy_rf = {
     1: 0.001875,
     2: 0.00375,

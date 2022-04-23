@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Copyright (c) 2021 Electronics and Telecommunications Research Institute
+# SPDX-License-Identifier: Apache-2.0
+
 from matplotlib import pyplot as plt
 #from keras.applications.resnet50 import preprocess_input
 import nnvm

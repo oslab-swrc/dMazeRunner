@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Copyright (c) 2021 Electronics and Telecommunications Research Institute
+# SPDX-License-Identifier: Apache-2.0
+
 import tvm
 from dMazeRunner.dataflow import ConvLayer, GemmLayer
 from dMazeRunner.common import layer_info, expr_parameters

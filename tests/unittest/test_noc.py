@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: Copyright (c) 2021 Electronics and Telecommunications Research Institute
+# SPDX-License-Identifier: Apache-2.0
+
 from test_common import get_sample_layer, get_ops
 from nose.tools import assert_raises
 import pprint
